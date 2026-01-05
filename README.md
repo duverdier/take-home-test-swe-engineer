@@ -1,7 +1,7 @@
-# 🏦 Take-Home Test – Software Engineer (Compte Bancaire)
+# 🏦 Take-Home Test – Software Engineer
 
 > **Niveau cible** : Engineer 2 / Senior 1 (3-6 ans d'expérience)  
-> **Durée estimée** : 3-4 heures (hors bonus)
+> **Durée estimée** : 3-4 heures (hors bonus) / 2 jours (avec bonus)
 
 ---
 
